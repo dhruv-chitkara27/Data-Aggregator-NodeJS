@@ -1,3 +1,6 @@
-Number of accesses: 2
+Number of accesses: 5
 Accessed JSON data
 Accessed CSV data
+Accessed JSON data
+Accessed CSV data
+Accessed JSON data
